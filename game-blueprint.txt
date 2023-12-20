@@ -1,0 +1,11 @@
+1. Create screen
+
+2. Create and move paddle 2 sides
+
+3. create ball and make it move
+
+4. detect ball miss and make it bounce again from starting position
+
+5. Detect collision with paddle
+
+6. Track score
